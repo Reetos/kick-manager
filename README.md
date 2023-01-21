@@ -32,6 +32,6 @@ This is the file that generates the GUI of Kick-Manager.
 This is a 1D convolutional neural network used in 'predict.py'
 #### Among 1D convolutional network, 2D convolutional network and recurrent neural network, 1D convolutional network was chosen based on the prediction accuracy.
 
-### 4. predictions.py
+### 4. predictions.csv
 This is a csv file that contains the result of prediction is stored.
 
