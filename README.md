@@ -28,10 +28,13 @@ This file is to predict the genre that each kick sample is suitable for by using
 ### 3. custom_gui.py
 This is the file that generates the GUI of Kick-Manager.
 
-### 3. conv1d.h5
+### 4. models.py
+Three deep learning models are built and saved as .h5 files: 1D convolutional neural network, 2D convolutional neural network, recurrent neural network
+
+### 5. conv1d.h5
 This is a 1D convolutional neural network used in 'predict.py'
 #### Among 1D convolutional network, 2D convolutional network and recurrent neural network, 1D convolutional network was chosen based on the prediction accuracy.
 
-### 4. predictions.csv
+### 6. predictions.csv
 This is a csv file that contains the result of prediction is stored.
 
